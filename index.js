@@ -59,13 +59,17 @@ app.get('/json/:filename', (req, res) => {
     });
 });
 
-app.get("/test", (req, res) => {
+app.get("/hehehehehe", (req, res) => {
   res.json({
     status: "✅ Offline",
     from: host,
     message: "Hello World. GDGoC HCMUS is a developer student club",
     "time-stamp": new Date().toISOString()
   });
+});
+
+app.get("/bao", (_req, res) => {
+  res.render("bao.hbs");
 });
 
 app.get("/about", (req, res) => {
