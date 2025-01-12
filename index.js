@@ -68,6 +68,10 @@ app.get("/khanghgiuihoegeihog", (req, res) => {
   });
 });
 
+app.get("/bao", (_req, res) => {
+  res.render("bao.hbs");
+});
+
 app.get("/about", (req, res) => {
   res.send(`
     <h1>About page</h1>
