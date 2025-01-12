@@ -59,7 +59,7 @@ app.get('/json/:filename', (req, res) => {
     });
 });
 
-app.get("/testing", (req, res) => {
+app.get("/test", (req, res) => {
   res.json({
     status: "✅ Offline",
     from: host,
