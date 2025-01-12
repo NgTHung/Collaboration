@@ -148,7 +148,7 @@ app.get("/ntploc21", (req, res) => {
     res.send(`
     <h1>hioegaw</h1>
     
-    <p>This is a simple Loc page</p>
+    <p>This is a complex Loc page</p>
   `);
 });
 
