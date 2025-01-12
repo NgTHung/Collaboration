@@ -118,7 +118,7 @@ app.get("/nguyentienson", (req, res) => {
   `);
 });
 
-app.get("/trannguyenphuckhang", (req, res) => {
+app.get("/notkhang", (req, res) => {
   res.send(`
     <h1>hioegaw</h1>
     <hghiueig
