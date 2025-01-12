@@ -78,7 +78,7 @@ app.get("/about", (req, res) => {
   `);
 });
 
-app.get("/meo", (req, res) => {
+app.get("/khangkhang", (req, res) => {
   res.send(`
     <h1>Meo page</h1>
     
