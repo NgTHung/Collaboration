@@ -144,6 +144,13 @@ app.get("/trannguyenphuckhang", (req, res) => {
   `);
 });
 
+app.get("/ntploc21", (req, res) => {
+    res.send(`
+    <h1>hioegaw</h1>
+    
+    <p>This is a simple Loc page</p>
+  `);
+});
 
 app.listen(port, () => {
   console.log(`Server is running on port ${port}`);
