@@ -116,6 +116,21 @@ app.get("/thing", (req, res) => {
   `);
 });
 
+app.get("/nguyentienson", (req, res) => {
+  res.send(`
+    <h1>unclenui</h1>
+    
+    <p>hehehehehe</p>
+    <img src='https://avatars.githubusercontent.com/u/97329402?v=4'/>
+
+    <style>
+    body {
+      background-color: pink;
+    }
+    </style>
+  `);
+});
+
 app.listen(port, () => {
   console.log(`Server is running on port ${port}`);
 });
