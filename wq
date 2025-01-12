@@ -1,0 +1,605 @@
+[33mcommit 9521c66e6d318a013af527a1fac12f313fe83594[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32madd-json-son[m[33m)[m
+Merge: 39c2c3b 1a06964
+Author: BaoKhongRach <tienson19273@gmail.com>
+Date:   Sun Jan 12 20:43:17 2025 +0700
+
+    Merge branch 'add-json-son' of https://github.com/GDSC-HCMUS/Collaboration-with-Git-GitHub-Workshop into add-json-son
+
+[33mcommit 39c2c3b062d7d155ef10e04a474df20af16ee570[m
+Merge: 97228df 854a4df
+Author: BaoKhongRach <tienson19273@gmail.com>
+Date:   Sun Jan 12 20:41:55 2025 +0700
+
+    Merge branch 'add-json-son' of https://github.com/GDSC-HCMUS/Collaboration-with-Git-GitHub-Workshop into add-json-son
+
+[33mcommit 1a06964c7f306c5f8cad7f373eba1869f309919d[m[33m ([m[1;31morigin/add-json-son[m[33m)[m
+Merge: 97228df 854a4df
+Author: BaoKhongRach <tienson19273@gmail.com>
+Date:   Sun Jan 12 20:41:55 2025 +0700
+
+    Merge branch 'add-json-son' of https://github.com/GDSC-HCMUS/Collaboration-with-Git-GitHub-Workshop into add-json-son
+
+[33mcommit 97228df4e31648e295d814da283740de3716acf3[m
+Author: BaoKhongRach <tienson19273@gmail.com>
+Date:   Sun Jan 12 20:29:59 2025 +0700
+
+    add: add /nguyentienson endpoint.
+
+[33mcommit 854a4dfd64340b07c92997679946b1080517ee20[m
+Author: BaoKhongRach <tienson19273@gmail.com>
+Date:   Sun Jan 12 20:29:59 2025 +0700
+
+    add: add /nguyentienson endpoint.
+
+[33mcommit e0ac36a6d3af9496747211800af5eef022774346[m
+Merge: f8f3183 af6a7e6
+Author: BaoKhongRach <tienson19273@gmail.com>
+Date:   Sun Jan 12 20:17:02 2025 +0700
+
+    Merge branch 'add-json-son' into dev
+
+[33mcommit f8f3183be806e03337a3d3b99dd4094fc7e43297[m
+Merge: da6af74 2031054
+Author: BaoKhongRach <tienson19273@gmail.com>
+Date:   Sun Jan 12 20:16:27 2025 +0700
+
+    Merge branch 'dev' of https://github.com/GDSC-HCMUS/Collaboration-with-Git-GitHub-Workshop into dev
+
+[33mcommit af6a7e6047f3c0577a8d7f4e2d1f3dd3a24136fe[m
+Author: BaoKhongRach <tienson19273@gmail.com>
+Date:   Sun Jan 12 20:16:01 2025 +0700
+
+    add: add son.json.
+
+[33mcommit 20310545915f3e66747f703fa61868b7107693ba[m
+Merge: 33d18bc 9c94dde
+Author: NgTHung <tuanhungag1@gmail.com>
+Date:   Sun Jan 12 20:15:35 2025 +0700
+
+    Merge branch 'dev' of https://github.com/GDSC-HCMUS/Collaboration-with-Git-GitHub-Workshop into dev
+
+[33mcommit 9c94dde36ab65b30a1b38cc7a2d96049e314b57c[m
+Author: tb-tian <thienan020405@gmail.com>
+Date:   Sun Jan 12 20:01:02 2025 +0700
+
+    add: add tian.json
+
+[33mcommit da6af74fab2daea49b42bb5fc0414ce32776e7a9[m
+Merge: 382b61d 47baadd
+Author: BaoKhongRach <tienson19273@gmail.com>
+Date:   Sun Jan 12 20:14:52 2025 +0700
+
+    Merge branch 'dev' of https://github.com/GDSC-HCMUS/Collaboration-with-Git-GitHub-Workshop into dev
+
+[33mcommit 33d18bc1296cd4745ceb1973d1dca6d787c70ef7[m
+Merge: db4ce8e 47baadd
+Author: NgTHung <tuanhungag1@gmail.com>
+Date:   Sun Jan 12 20:14:52 2025 +0700
+
+    Merge branch 'dev' of https://github.com/GDSC-HCMUS/Collaboration-with-Git-GitHub-Workshop into dev
+    merge
+
+[33mcommit 382b61d19bb37434061d74aebb8aaefcf70fb5a8[m
+Merge: 7646a50 d565cda
+Author: BaoKhongRach <tienson19273@gmail.com>
+Date:   Sun Jan 12 20:14:18 2025 +0700
+
+    Merge branch 'add-json-son' into dev
+
+[33mcommit db4ce8ee81a9866a18efa502f610199076bb5321[m
+Merge: 7646a50 2da25c6
+Author: NgTHung <tuanhungag1@gmail.com>
+Date:   Sun Jan 12 20:14:06 2025 +0700
+
+    Merge branch 'add-json-thung' into dev
+    Test
+
+[33mcommit 47baadd4e2244e3de67bcf114f634e64fe0c67c3[m
+Merge: 7646a50 2bf2d85
+Author: Phúc Khang <84757707+PhKhang@users.noreply.github.com>
+Date:   Sun Jan 12 20:13:39 2025 +0700
+
+    Merge branch 'feature/khang' into dev
+
+[33mcommit d565cda8a8b161ad3e9d540ce19facb0f077bc2d[m
+Author: BaoKhongRach <tienson19273@gmail.com>
+Date:   Sun Jan 12 20:13:25 2025 +0700
+
+    add: add son.json.
+
+[33mcommit 2bf2d856b5edcf185a575ae4ab2a1e230718a77d[m
+Author: Phúc Khang <84757707+PhKhang@users.noreply.github.com>
+Date:   Sun Jan 12 20:12:47 2025 +0700
+
+    Add: /khai endpoint
+
+[33mcommit 7646a50074b3c38ddc4e8137eff5cca10e9f973f[m
+Merge: 0ad2166 6ea61ac
+Author: ntploc21 <ntploc21@gmail.com>
+Date:   Sun Jan 12 20:02:51 2025 +0700
+
+    Merge
+
+[33mcommit 2da25c6df585c1155a0ef2feea6490d6352ee446[m
+Author: NgTHung <tuanhungag1@gmail.com>
+Date:   Sun Jan 12 20:02:29 2025 +0700
+
+    add: /thung endpoint
+
+[33mcommit 6ea61ac92354860e95dfe8350ae3b5232f0b4913[m
+Author: ntploc21 <ntploc21@gmail.com>
+Date:   Sun Jan 12 20:00:57 2025 +0700
+
+    add: add loc.json
+
+[33mcommit 60826214f488d7da934333f7e75be0ba16027e8c[m[33m ([m[1;32mmain[m[33m)[m
+Author: Nguyễn Thanh Phước Lộc <ntploc21@gmail.com>
+Date:   Sun Jan 12 19:34:44 2025 +0700
+
+    update: Update /test api endpoint to status offline
+
+[33mcommit b4d32f5ea265620b4f8704349160f9392abe20fe[m
+Author: Nguyễn Thanh Phước Lộc <ntploc21@gmail.com>
+Date:   Sun Jan 12 19:33:14 2025 +0700
+
+    Update index.js
+
+[33mcommit 8a0477a8a6397bae5c012c743f96682a5d85c7b4[m
+Merge: 6cc1adf 0ad2166
+Author: Phúc Khang <84757707+PhKhang@users.noreply.github.com>
+Date:   Sun Jan 12 18:31:03 2025 +0700
+
+    Merge pull request #14 from GDSC-HCMUS/dev
+    
+    Dev
+
+[33mcommit 0ad2166c6c5afb1e2b1fffdb9330431f4ec50fe9[m
+Merge: ba5e162 6493612
+Author: Phúc Khang <84757707+PhKhang@users.noreply.github.com>
+Date:   Sun Jan 12 18:28:03 2025 +0700
+
+    Merge branch 'dev' of https://github.com/GDSC-HCMUS/Collaboration-with-Git-GitHub-Workshop into dev
+
+[33mcommit ba5e1628ec2397fc7f396b8541a3240d400ebe3e[m
+Merge: 0f212e3 774504a
+Author: Phúc Khang <84757707+PhKhang@users.noreply.github.com>
+Date:   Sun Jan 12 18:25:37 2025 +0700
+
+    Merge branch 'aaa' into dev
+
+[33mcommit 774504a1cd5b7eed1ced6138faf534b333e6660c[m
+Author: Phúc Khang <84757707+PhKhang@users.noreply.github.com>
+Date:   Sun Jan 12 18:23:43 2025 +0700
+
+    Update: nham
+
+[33mcommit 6493612f2a777c684d6d21e27f3e41e752314575[m
+Merge: 0f212e3 cf54a77
+Author: ntploc21 <ntploc21@gmail.com>
+Date:   Sun Jan 12 18:22:38 2025 +0700
+
+    Merge branch 'thing-ntploc21' into dev
+
+[33mcommit 0f212e3a5b940a2cdd4ae5d03a7a541b5ec308a8[m
+Author: Phúc Khang <84757707+PhKhang@users.noreply.github.com>
+Date:   Sun Jan 12 03:21:54 2025 -0800
+
+    Update index.js
+
+[33mcommit cf54a774352526234533b75940a308d8bf25ca5c[m
+Author: ntploc21 <ntploc21@gmail.com>
+Date:   Sun Jan 12 18:21:25 2025 +0700
+
+    add: Add thing-ntploc21 api endpoint
+
+[33mcommit db842dea6a633c42b0fa964babe5b84a7b16c1ef[m
+Author: Phúc Khang <84757707+PhKhang@users.noreply.github.com>
+Date:   Sun Jan 12 18:17:27 2025 +0700
+
+    Add: new file
+
+[33mcommit 0a9d86c84abab8ef4348fc309530cbcc491ab92a[m
+Merge: 7fa8575 c1356e1
+Author: Phúc Khang <84757707+PhKhang@users.noreply.github.com>
+Date:   Sun Jan 12 17:01:32 2025 +0700
+
+    Merge branch 'feature/khang' into dev
+
+[33mcommit 7fa857555bc4f3f73c8d6eb0da5343ad6f4db799[m
+Author: Phúc Khang <84757707+PhKhang@users.noreply.github.com>
+Date:   Sun Jan 12 02:00:18 2025 -0800
+
+    Update: rename nham to nham.json
+
+[33mcommit e0ec1b09db2016e571bea494a0f952a189401d14[m
+Author: Phúc Khang <84757707+PhKhang@users.noreply.github.com>
+Date:   Sun Jan 12 01:59:51 2025 -0800
+
+    Add: nham.json
+
+[33mcommit b5ca5549b2f4d64079a2087965195cc0f6f3824e[m
+Merge: 810eae4 6cc1adf
+Author: Phúc Khang <84757707+PhKhang@users.noreply.github.com>
+Date:   Sun Jan 12 16:58:31 2025 +0700
+
+    Merge pull request #13 from GDSC-HCMUS/main
+    
+    Merge main's updates to dev
+
+[33mcommit c1356e14acc7f4dc0f373867cefb4ed922be768f[m
+Author: Phúc Khang <84757707+PhKhang@users.noreply.github.com>
+Date:   Sun Jan 12 16:55:32 2025 +0700
+
+    Add: khiem.json
+
+[33mcommit 31b87d479409c6f20c2d4e34498cfe9edf2f1d63[m
+Author: Phúc Khang <84757707+PhKhang@users.noreply.github.com>
+Date:   Sun Jan 12 16:52:50 2025 +0700
+
+    Add: khoa.json
+
+[33mcommit 6cc1adf1f6afe402f559812b4c2b1082df4a7bfc[m
+Merge: 89c9213 810eae4
+Author: Phúc Khang <84757707+PhKhang@users.noreply.github.com>
+Date:   Sun Jan 12 16:46:57 2025 +0700
+
+    Merge pull request #12 from GDSC-HCMUS/dev
+    
+    Index.js clean up, add file based json API endpoint
+
+[33mcommit 810eae4ca890840fc544e2ae0fc2b509f7e27cad[m
+Author: Phúc Khang <84757707+PhKhang@users.noreply.github.com>
+Date:   Sun Jan 12 16:43:46 2025 +0700
+
+    Update: index.js content
+
+[33mcommit f88afdde8c39c48876b0b42889283ed27cb9ea08[m
+Author: Phúc Khang <84757707+PhKhang@users.noreply.github.com>
+Date:   Sun Jan 12 16:38:56 2025 +0700
+
+    Add: /json directory and file based routing
+
+[33mcommit 89c9213284a56e270d6e6e0efd31dcf69c47a9d2[m
+Author: Phúc Khang <84757707+PhKhang@users.noreply.github.com>
+Date:   Sun Jan 12 14:29:45 2025 +0700
+
+    Update: /thing content
+
+[33mcommit 9b591053af6a1d0b97b1ae3c0c92e568a63c0474[m
+Author: Phúc Khang <84757707+PhKhang@users.noreply.github.com>
+Date:   Sun Jan 12 14:18:01 2025 +0700
+
+    Add: /thing endpoint
+
+[33mcommit 48f0ad44f38a62dda1d8fc9765b6a7806d8a1b79[m
+Author: Phúc Khang <84757707+PhKhang@users.noreply.github.com>
+Date:   Sun Jan 12 01:15:36 2025 -0800
+
+    Remove: duplicate /test field
+
+[33mcommit 0dc101cc9eedd3e92fc726aee4e7d0881d4b6d58[m
+Author: Phúc Khang <84757707+PhKhang@users.noreply.github.com>
+Date:   Sat Jan 11 23:32:36 2025 -0800
+
+    Update: /some content
+
+[33mcommit bc6c524ab99146567fa0219b0ccc8f440751ab0d[m
+Author: Phúc Khang <84757707+PhKhang@users.noreply.github.com>
+Date:   Sat Jan 11 23:20:29 2025 -0800
+
+    Add: /some endpoint in index.js
+
+[33mcommit b9dee87d9cab824babd40a4f6a59b940286b0583[m
+Merge: 13bad32 a770a25
+Author: phkhang <trannguyenphuckhang12@gmail.com>
+Date:   Sun Jan 12 14:13:20 2025 +0700
+
+    Merge branch 'login-screen'
+
+[33mcommit a770a2572814f809455416e2116252950daed050[m
+Author: phkhang <trannguyenphuckhang12@gmail.com>
+Date:   Sun Jan 12 13:59:32 2025 +0700
+
+    Update: add host status to /test
+
+[33mcommit 13bad32eb878481fed3a564a8e98e6107fd93ade[m
+Merge: c46f483 325ad56
+Author: Phúc Khang <84757707+PhKhang@users.noreply.github.com>
+Date:   Sun Jan 12 13:58:30 2025 +0700
+
+    Merge pull request #10 from ntploc21/main
+    
+    update: Update /test api endpoint
+
+[33mcommit c46f4833e9f0ef99abbf72487011f9d314d1907a[m
+Merge: 078c7ca 7b0dbbc
+Author: Phúc Khang <84757707+PhKhang@users.noreply.github.com>
+Date:   Sun Jan 12 13:58:07 2025 +0700
+
+    Merge pull request #11 from GDSC-HCMUS/update-test
+    
+    Update test
+
+[33mcommit 7b0dbbcdb64957bc40a7197dc549b42eb7a02d4a[m[33m ([m[1;31morigin/update-test[m[33m)[m
+Merge: a46f01d 078c7ca
+Author: ntploc21 <ntploc21@gmail.com>
+Date:   Sat Jan 11 21:39:04 2025 +0700
+
+    Merge
+
+[33mcommit 078c7ca85fcb29ceb1799c931a21078f48d157f3[m
+Author: phkhang <trannguyenphuckhang12@gmail.com>
+Date:   Sat Jan 11 21:28:38 2025 +0700
+
+    Add: /khang endpoint
+
+[33mcommit a46f01d4ec46368834067b35857f898f6f30f683[m
+Author: ntploc21 <ntploc21@gmail.com>
+Date:   Sat Jan 11 21:28:27 2025 +0700
+
+    add: Add ntploc21 api endpoint
+
+[33mcommit 325ad56adad1990ac10f5f250bf8ee366d3ed481[m
+Author: ntploc21 <ntploc21@gmail.com>
+Date:   Sat Jan 11 21:20:54 2025 +0700
+
+    update: Update /test api endpoint
+
+[33mcommit 2d2628d475367772ae2c92207827401c4cd80d93[m
+Author: ntploc21 <ntploc21@gmail.com>
+Date:   Sat Jan 11 21:05:53 2025 +0700
+
+    Update: update /test endpoint.
+
+[33mcommit 2f92dcd17d267d96e5a24c78f8ba0583f3795c13[m
+Author: Phúc Khang <84757707+PhKhang@users.noreply.github.com>
+Date:   Sat Jan 11 06:11:10 2025 -0800
+
+    Update index.js
+
+[33mcommit 2f5499b07451f601beeb4acc378d941c806f204e[m
+Author: Phúc Khang <84757707+PhKhang@users.noreply.github.com>
+Date:   Sat Jan 11 06:04:19 2025 -0800
+
+    Update .env.example
+
+[33mcommit 0b820437445a268ee65ad1dbf8e8e4231f78ec71[m
+Author: Phúc Khang <84757707+PhKhang@users.noreply.github.com>
+Date:   Sat Jan 11 06:03:58 2025 -0800
+
+    Update index.js
+
+[33mcommit 5367df1de831e5f11bacb69bf327aec812d1c55a[m
+Merge: 48f28c2 22eaaa5
+Author: Phúc Khang <84757707+PhKhang@users.noreply.github.com>
+Date:   Sat Jan 11 20:51:02 2025 +0700
+
+    Merge pull request #9 from GDSC-HCMUS/another
+    
+    Another
+
+[33mcommit 22eaaa585727c78a5142cb2be2cd55885324521c[m
+Author: phkhang <trannguyenphuckhang12@gmail.com>
+Date:   Sat Jan 11 20:47:18 2025 +0700
+
+    Remove: status message
+
+[33mcommit 07a6a063f10b30f916faf4de89f4df07bb566c91[m
+Author: phkhang <trannguyenphuckhang12@gmail.com>
+Date:   Sat Jan 11 20:45:56 2025 +0700
+
+    Update: from status
+
+[33mcommit 48f28c2a62df5490a35afb569e26900422d09c91[m
+Merge: 13da6f9 ad47ed9
+Author: Phúc Khang <84757707+PhKhang@users.noreply.github.com>
+Date:   Sat Jan 11 20:43:55 2025 +0700
+
+    Merge pull request #8 from PhKhang/small-update
+    
+    Update: small update
+
+[33mcommit ad47ed99b2bb358814d93493ace6c8a4727b9e3c[m
+Author: phkhang <trannguyenphuckhang12@gmail.com>
+Date:   Sat Jan 11 20:43:17 2025 +0700
+
+    Update: change online status
+
+[33mcommit 5fdbf60aca1c7794ae7a195906bbc72c8f27a575[m
+Author: phkhang <trannguyenphuckhang12@gmail.com>
+Date:   Sat Jan 11 20:41:41 2025 +0700
+
+    Update: small update
+
+[33mcommit 13da6f9364cc3e6753c15a32abbad6c06d1db593[m
+Merge: b5f23d3 bd14748
+Author: Phúc Khang <84757707+PhKhang@users.noreply.github.com>
+Date:   Fri Jan 10 23:11:30 2025 +0700
+
+    Merge pull request #7 from thiennbao/main
+    
+    Delete: /hehe, /what; Update: / content
+
+[33mcommit bd1474883a079176f6384b98848b8461d407ff54[m
+Author: thiennbao <thiennbao.204@gmail.com>
+Date:   Fri Jan 10 23:06:33 2025 +0700
+
+    Update: / content
+
+[33mcommit e8cafdddfec3ac41c311e67db6b2bec78023ddbf[m
+Author: thiennbao <thiennbao.204@gmail.com>
+Date:   Fri Jan 10 23:05:57 2025 +0700
+
+    Delete: /hehe, /what
+
+[33mcommit b5f23d309908636266bec9fde3ecc9dc30e495ab[m
+Merge: 1e00680 3bf9ec3
+Author: Phúc Khang <84757707+PhKhang@users.noreply.github.com>
+Date:   Fri Jan 10 22:49:34 2025 +0700
+
+    Merge pull request #6 from thiennbao/main
+    
+    Update: home page gradient
+
+[33mcommit 3bf9ec38ba3d3fcb5a4b78e81b9b6edf9376fb23[m
+Author: thiennbao <thiennbao.204@gmail.com>
+Date:   Fri Jan 10 22:45:31 2025 +0700
+
+    Add: hehe page
+
+[33mcommit 8faa9ece9c5d79d2afe723429b2a835564330828[m
+Merge: 6c74dd8 1e00680
+Author: Thien Bao <thiennbao.204@gmail.com>
+Date:   Fri Jan 10 22:32:49 2025 +0700
+
+    Merge branch 'GDSC-HCMUS:main' into main
+
+[33mcommit 6c74dd882999e62d9e39e0ad30230082b873e752[m
+Author: thiennbao <thiennbao.204@gmail.com>
+Date:   Fri Jan 10 22:32:13 2025 +0700
+
+    Update: home page gradient
+
+[33mcommit 1e00680c581377ade54d13bcd8fb1748e048b985[m
+Author: Phúc Khang <84757707+PhKhang@users.noreply.github.com>
+Date:   Fri Jan 10 06:41:38 2025 -0800
+
+    Update: index.js
+
+[33mcommit 63db13ac99244d9a3525dec4014a1d276c9a0940[m
+Merge: 7459a89 1f5fe6c
+Author: Phúc Khang <84757707+PhKhang@users.noreply.github.com>
+Date:   Fri Jan 10 19:01:54 2025 +0700
+
+    Merge pull request #5 from PhKhang/actual-site
+    
+    Add: UI page to /
+
+[33mcommit 1f5fe6c432b067f173757da8354cef9ec07c6695[m
+Author: phkhang <trannguyenphuckhang12@gmail.com>
+Date:   Fri Jan 10 19:00:01 2025 +0700
+
+    Add: UI page to /
+
+[33mcommit 7459a893ac3bea2135fde9bc5f4a251fdb0591bb[m
+Author: Phúc Khang <84757707+PhKhang@users.noreply.github.com>
+Date:   Fri Jan 10 02:06:41 2025 -0800
+
+    Update: add more field to /'s json response
+
+[33mcommit f2e9680e5a1fbfa7e9f96ad5cb7e1e66542a4c3b[m
+Merge: b08ed15 bb4746c
+Author: Phúc Khang <84757707+PhKhang@users.noreply.github.com>
+Date:   Wed Jan 8 23:16:39 2025 +0700
+
+    Merge pull request #4 from PhKhang/main
+    
+    Update: /meo
+
+[33mcommit bb4746ce884d2225a501afc68bd99c0de8a71378[m
+Author: phkhang <trannguyenphuckhang12@gmail.com>
+Date:   Wed Jan 8 23:13:47 2025 +0700
+
+    Update: remove favicon
+
+[33mcommit fcbbc67a02d8c800e5591c1b33b0687b0a045e9d[m
+Author: phkhang <trannguyenphuckhang12@gmail.com>
+Date:   Wed Jan 8 23:11:39 2025 +0700
+
+    Update: add favicon
+
+[33mcommit b08ed1544b7d90abd82457863be5365b583ee620[m
+Merge: 898b296 09906e4
+Author: Phúc Khang <84757707+PhKhang@users.noreply.github.com>
+Date:   Wed Jan 8 22:47:44 2025 +0700
+
+    Merge pull request #3 from PhKhang/main
+    
+    Update: add name to GitHub action
+
+[33mcommit 09906e47eeb45e730dc2c765b842a9d22124bb2a[m
+Merge: 97eb12b 898b296
+Author: Phúc Khang <84757707+PhKhang@users.noreply.github.com>
+Date:   Wed Jan 8 22:46:37 2025 +0700
+
+    Merge branch 'GDSC-HCMUS:main' into main
+
+[33mcommit 97eb12b4fcf8a139e0281cb3dccf8874951466e4[m
+Merge: 9b02171 1cb9af0
+Author: phkhang <trannguyenphuckhang12@gmail.com>
+Date:   Wed Jan 8 22:45:19 2025 +0700
+
+    Merge branch 'main' of https://github.com/PhKhang/Collaboration-with-Git-GitHub-Workshop
+
+[33mcommit 9b02171201fc48864a9a613c5038fcfb5dcd877a[m
+Author: phkhang <trannguyenphuckhang12@gmail.com>
+Date:   Wed Jan 8 22:34:42 2025 +0700
+
+    Add: redeploy GitHub action script
+
+[33mcommit 898b2961e639072b24221e9ffa0e1ffcc19c472f[m
+Merge: a74be16 1cb9af0
+Author: Phúc Khang <84757707+PhKhang@users.noreply.github.com>
+Date:   Wed Jan 8 22:41:01 2025 +0700
+
+    Merge pull request #2 from PhKhang/main
+    
+    Add: redeploy GitHub action script
+
+[33mcommit 1cb9af0d229c592d7f18846a1930b845a865dda2[m
+Author: phkhang <trannguyenphuckhang12@gmail.com>
+Date:   Wed Jan 8 22:34:42 2025 +0700
+
+    Add: redeploy GitHub action script
+
+[33mcommit a74be16c650ae95a6e3a7d0da69670dfade4023f[m
+Merge: 1eee04f 8a292e2
+Author: Phúc Khang <84757707+PhKhang@users.noreply.github.com>
+Date:   Wed Jan 8 22:25:46 2025 +0700
+
+    Merge pull request #1 from PhKhang/main
+    
+    Update: add /meo to index.js
+
+[33mcommit 8a292e253e417b95a74a597bbd9d4edbb71b84a9[m
+Author: phkhang <trannguyenphuckhang12@gmail.com>
+Date:   Wed Jan 8 22:23:19 2025 +0700
+
+    Update: add /meo to index.js
+
+[33mcommit 1eee04f17bb0858d3fcc0d4091605169e1b2a5af[m
+Author: Phúc Khang <84757707+PhKhang@users.noreply.github.com>
+Date:   Wed Jan 8 07:21:35 2025 -0800
+
+    Update: index.js
+
+[33mcommit 710fbfdc0381f9b8eab99675ddc645bebccfa94d[m
+Merge: 939c630 dc13f8b
+Author: phkhang <trannguyenphuckhang12@gmail.com>
+Date:   Wed Jan 8 21:54:02 2025 +0700
+
+    Merge branch 'main' of https://github.com/GDSC-HCMUS/Collaboration-with-Git-GitHub-Workshop
+
+[33mcommit 939c6307742b24e9dd4a2b84d6b0ed6ebb962e3c[m
+Author: phkhang <trannguyenphuckhang12@gmail.com>
+Date:   Wed Jan 8 08:07:01 2025 +0700
+
+    Add: .env file support
+
+[33mcommit dc13f8b6819c74398d6e5ea9afa87da5eadf8679[m
+Author: Phúc Khang <84757707+PhKhang@users.noreply.github.com>
+Date:   Wed Jan 8 06:45:06 2025 -0800
+
+    Update: add useless new line to .env.example
+
+[33mcommit 3a3667a6e7f80b2306eb3144db75219e370843a9[m
+Author: phkhang <trannguyenphuckhang12@gmail.com>
+Date:   Wed Jan 8 08:07:01 2025 +0700
+
+    Add: .env file support
+
+[33mcommit b914a97f25967cf1ee3ea1b7ca68a814b0f28b52[m
+Author: phkhang <trannguyenphuckhang12@gmail.com>
+Date:   Tue Jan 7 08:35:35 2025 +0700
+
+    Init repository
