@@ -116,6 +116,33 @@ app.get("/thing", (req, res) => {
   `);
 });
 
+app.get("/trannguyenphuckhang", (req, res) => {
+  res.send(`
+    <h1>hioegaw</h1>
+    <hghiueig
+    
+    To be or not to be
+    It is a question
+    <p>For collaboration and more</p>
+    
+    
+    <p>This is a simple meo page</p>
+    <img src='https://easydrawingguides.com/wp-content/uploads/2022/05/how-to-draw-the-jiji-cat-featured-image-1200.png'/>
+    
+    <style>
+    body {
+      background-color: lightblue;
+    }
+    img {
+      width: 400px;
+      height: 400px;
+      object-fit: cover;
+    }
+    </stule>
+  `);
+});
+
+
 app.listen(port, () => {
   console.log(`Server is running on port ${port}`);
 });
